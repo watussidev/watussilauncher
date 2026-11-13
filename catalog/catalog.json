@@ -1,0 +1,13 @@
+{
+  "catalog_version": 1,
+  "modpacks": [
+    {
+      "id": "deadlock",
+      "name": "Deadlock",
+      "description": "Despertá en un hospital abandonado con una trampa de oso en la cabeza. Tenés 5 vidas.",
+      "tag": "Deadlock",
+      "image": "",
+      "published": false
+    }
+  ]
+}
