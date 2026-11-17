@@ -1,4 +1,13 @@
 {
   "catalog_version": 1,
-  "modpacks": []
+  "modpacks": [
+    {
+      "id": "semi-anarquico-smp",
+      "name": "Semi-Anarquico SMP",
+      "description": "",
+      "tag": "SemiAnarquico",
+      "image": "",
+      "published": false
+    }
+  ]
 }
