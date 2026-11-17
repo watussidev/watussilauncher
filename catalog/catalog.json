@@ -1,13 +1,4 @@
 {
   "catalog_version": 1,
-  "modpacks": [
-    {
-      "id": "deadlock",
-      "name": "Deadlock",
-      "description": "Despertá en un hospital abandonado con una trampa de oso en la cabeza. Tenés 5 vidas.",
-      "tag": "Deadlock",
-      "image": "https://github.com/watussidev/watussilauncher/releases/download/Deadlock/cover-cbd23b732d.png",
-      "published": false
-    }
-  ]
+  "modpacks": []
 }
